@@ -40,8 +40,9 @@ I'm a Computer Science and Engineering student and an AI/DL enthusiast. However,
 
 [//]: # (Social media links.)
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Marawan-Abdelrahman/)
-
+<a href="https://www.linkedin.com/in/Marawan-Abdelrahman/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <!--
 **MaroSalah02/MaroSalah02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
