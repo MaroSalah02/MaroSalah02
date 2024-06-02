@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=MaroSalah02&color=green)
 
 ## About Me
-I'm a Computer Science and Engineering student and an AI/DL enthusiast. However, I continually expand my skills in areas such as Front-End Development, Cloud Computing, and Embedded Systems. This GitHub profile serves as a blog for all my past and current projects. Please take a look at my pinned projects and my repository as well. Thank you!
+I'm a Computer Science and Engineering student and an AI/DL enthusiast. However, I continually expand my skills in areas such as Front-End Development, Cloud Computing, GIS and Embedded Systems. This GitHub profile serves as a blog for all my past and current projects. Please take a look at my pinned projects and my repository as well. Thank you!
 
 ## Languages and Tools:
 
