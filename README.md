@@ -12,6 +12,7 @@ I'm a Computer Science and Engineering student and an AI/DL enthusiast. However,
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![QGIS](https://img.shields.io/badge/-QGIS-black?style=flat-square&logo=qgis)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
@@ -35,6 +36,8 @@ I'm a Computer Science and Engineering student and an AI/DL enthusiast. However,
 - [PISA_2012]([Link to Project](https://github.com/MaroSalah02/Project_PISA)) : Applyting my data Analysis Skills on PISA(Exam for students) Dataset 2012 to answer some Questions
 - [THE LAST OF US: Legacy 2D game]([Link to Project](https://github.com/MaroSalah02/THE_LAST_OF_US)) : A Game that I have mafe with my Friends for a uni project that was Featured as one of the best 7 Games Submitted in My Uni CS Course 4th Semester.
 
+## Current Project:
+Doing Specific Data analysis on specific cities Using QGis, Python and Pytorch. Stay Tuned 😁
 
 ## Connect with Me:
 
@@ -44,16 +47,4 @@ I'm a Computer Science and Engineering student and an AI/DL enthusiast. However,
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <!--
-**MaroSalah02/MaroSalah02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**MaroSalah02/MaroSalah02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
