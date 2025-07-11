@@ -37,7 +37,7 @@ I'm a Computer Science and Engineering student and an AI/DL enthusiast. However,
 - [THE LAST OF US: Legacy 2D game]([Link to Project](https://github.com/MaroSalah02/THE_LAST_OF_US)) : A Game that I have mafe with my Friends for a uni project that was Featured as one of the best 7 Games Submitted in My Uni CS Course 4th Semester.
 
 ## Current Project:
-Doing Specific Data analysis on specific cities Using QGis, Python and Pytorch. Stay Tuned 😁
+Working on my Bachelor's Thesis. Hints: 3D mapping and Sphere robots. Stay Tuned 😁
 
 ## Connect with Me:
 
