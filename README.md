@@ -12,6 +12,7 @@ I'm a Computer Science and Engineering student and an AI/DL enthusiast. However,
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
 ![QGIS](https://img.shields.io/badge/-QGIS-black?style=flat-square&logo=qgis)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
