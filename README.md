@@ -18,17 +18,6 @@ I'm a Computer Science and Engineering student and an AI/DL enthusiast. However,
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
 
-## My GitHub Stats
-
-[//]: # (You can use https://github.com/anuraghazra/github-readme-stats to generate stats cards.)
-
-<a href="https://github.com/[YourGitHub]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaroSalah02&show_icons=true&line_height=27&count_private=true&theme=radical" alt="[Your Name]'s GitHub Stats" />
-</a>
-<a href="https://github.com/[YourGitHub]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaroSalah02&theme=radical" />
-</a>
-
 
 ## Featured Projects 
 
