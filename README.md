@@ -27,7 +27,7 @@ I'm a Computer Science and Engineering student and an AI/DL enthusiast. However,
 - [PISA_2012]([Link to Project](https://github.com/MaroSalah02/Project_PISA)) : Applyting my data Analysis Skills on PISA(Exam for students) Dataset 2012 to answer some Questions
 - [THE LAST OF US: Legacy 2D game]([Link to Project](https://github.com/MaroSalah02/THE_LAST_OF_US)) : A Game that I have mafe with my Friends for a uni project that was Featured as one of the best 7 Games Submitted in My Uni CS Course 4th Semester.
 ## Current Project:
-Prohects related to Semester 9 courses. Stay Tuned 😁
+Projects related to Semester 9 courses. Stay Tuned 😁
 
 ## Connect with Me:
 
